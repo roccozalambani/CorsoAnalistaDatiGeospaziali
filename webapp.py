@@ -49,5 +49,7 @@ def main():
     help="Choose the variable you wish to analyze from ERA5 data.")
     st.write(f"Selected variable: {var_ERA5}")
     
-  if __name__ == "__main__":
+
+
+if __name__ == "__main__":
     main()
